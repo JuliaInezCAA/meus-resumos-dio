@@ -11,7 +11,7 @@ Repositório para armazenar resumos sobre material do curso de Versionamento de 
 
 | Aulas | Resumos |
 |-------|---------|
-|Criando e clonando repositórios | [Resumos]()|
+|Criando e clonando repositórios | [Resumos](resumos/aula-01.md)|
 |salvando alterações no rep.local| [Resumos]()|
 |desfazendo alterações no rep.local|[Resumos]()||
 |enviando e baixando alterações no repositório remoto|[Resumos]()||
